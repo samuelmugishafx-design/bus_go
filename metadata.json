@@ -1,0 +1,6 @@
+{
+  "name": "BusGo Rwanda - Smart Bus Ticket Booking & Queue Management",
+  "description": "Smart Bus Ticket Booking and Queue Management System for Rwanda. Book cross-country buses via Web and USSD, select seats, pay via MTN MoMo and Airtel Money, change routes flexibly, and verify digital QR tickets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
